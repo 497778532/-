@@ -1,0 +1,140 @@
+* {
+     margin: 0;
+     padding: 0;
+  font-family: "宋体";
+  font-size: 12px;
+  color: #000;
+  list-style: none;
+ }
+em,i {
+      font-style: normal
+  }
+li {
+      list-style: none
+   }
+ img {
+   border: 0;
+   vertical-align: middle
+ }
+ button {
+       cursor: pointer
+   }
+ a {
+   text-decoration: none
+ }
+ a:hover {
+   color: #FA0
+ }
+.chanpin-list_main_1 {
+  width: 730px;
+  float: right;
+  background: #fff;
+  margin-bottom: 10px;
+}
+.chanpin-list_main_1 .chanpin_show {
+  width: 730px;
+}
+.chanpin-list_main_1 h3 {
+  color: #0e90d2;
+  background: url(/static/images/title_bg01.jpg) center center;
+  width: 720px;
+  padding-left: 10px;
+  font-family: "\5B8B\4F53";
+  font-size: 16px;
+  font-weight: bold;
+  height: 36px;
+  line-height: 36px;
+}
+.chanpin-list_main_1 .chanpin_show .chanpin_con {
+  width: 728px;
+  border-left: 1px #ddd solid;
+  border-right: 1px #ddd solid;
+  border-bottom: 1px #ddd solid;
+  padding-bottom: 10px;
+}
+.chanpin-list_main_1 .chanpin_show .chanpin_con ul.chanpin_fenlei {
+  padding-top: 10px;
+}
+.chanpin-list_main_1 .chanpin_show .chanpin_con ul.chanpin_fenlei li {
+  float: left;
+  width: 150px;
+  padding-left: 20px;
+  line-height: 22px;
+}
+.chanpin-list_main_1 .chanpin_show .chanpin_con .show_list {
+  width: 728px;
+}
+.chanpin-list_main_1 .chanpin_show .chanpin_con .show_list .show_style {
+  padding-left: 20px;
+}
+.chanpin-list_main_1 .chanpin_show .chanpin_con .show_list .show_style div p.chakan {
+  display: block;
+  width: 38px;
+}
+.chanpin-list_main_1 .chanpin_show .chanpin_con .show_list .show_style div p {
+  float: left;
+  padding-right: 3px;
+  width: 16px;
+  height: 16px;
+}
+.chanpin-list_main_1 .chanpin_show .chanpin_con .show_list .show_style div p.liebiao a {
+  display: block;
+  width: 16px;
+  height: 16px;
+  background: url(/static/images/liebiao.jpg) no-repeat center center;
+}
+.chanpin-list_main_1 .chanpin_show .chanpin_con .show_list .show_style div p.biaoge a {
+  display: block;
+  width: 16px;
+  height: 16px;
+  background: url(/static/images/biaoge.jpg) no-repeat center center;
+}
+.chanpin-list_main_1 .chanpin_show .chanpin_con .show_list .show {
+  width: 728px;
+  padding-bottom: 10px;
+  background: #fff;
+}
+.chanpin-list_main_1 .chanpin_show .chanpin_con .show_list .show ul {
+  width: 728px;
+}
+.chanpin-list_main_1 .chanpin_show .chanpin_con .show_list .page_list {
+  width: 320px;
+  margin: auto;
+}
+.chanpin-list_main_1 .chanpin_show .chanpin_con .show_list .page_list ul {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.chanpin-list_main_1 .chanpin_show .chanpin_con .show_list .page_list ul li.pre {
+  background: url(/static/images/btn_07.gif) no-repeat center center;
+  width: 60px;
+  height: 26px;
+}
+.chanpin-list_main_1 .chanpin_show .chanpin_con .show_list .page_list ul li.num {
+  background: url(/static/images/btn_09.gif) no-repeat center center;
+  width: 26px;
+  height: 26px;
+}
+.chanpin-list_main_1 .chanpin_show .chanpin_con .show_list .page_list ul li {
+  margin-left: 5px;
+  line-height: 26px;
+  text-align: center;
+  float: left;
+}
+.chanpin-list_main_1 .chanpin_show .chanpin_con .show_list .page_list ul li span {
+  color: #ccc;
+}
+.chanpin-list_main_1 .chanpin_show .chanpin_con .show_list .page_list ul li.pre {
+  background: url(/static/images/btn_07.gif) no-repeat center center;
+  width: 60px;
+  height: 26px;
+}
+.chanpin-list_main_1 h3 {
+  width: 720px;
+  padding-left: 10px;
+  font-family: "宋体";
+  font-size: 16px;
+  font-weight: bold;
+  height: 36px;
+  line-height: 36px;
+}
